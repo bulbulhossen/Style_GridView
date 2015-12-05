@@ -49,16 +49,16 @@ public class MainActivity extends Activity {
     {
         listCountry = new ArrayList<String>();
 
-        listCountry.add("india");
-        listCountry.add("Brazil");
-        listCountry.add("Canada");
-        listCountry.add("China");
-        listCountry.add("France");
-        listCountry.add("Germany");
-        listCountry.add("Iran");
-        listCountry.add("Italy");
-        listCountry.add("Japan");
-        listCountry.add("Korea");
+        listCountry.add("ইন্ডিয়া");
+        listCountry.add("ব্রাজিল");
+        listCountry.add("কানাডা");
+        listCountry.add("চীন");
+        listCountry.add("ফ্রান্স");
+        listCountry.add("জার্মানি");
+        listCountry.add("ইরান");
+        listCountry.add("ইতালি");
+        listCountry.add("জাপান");
+        listCountry.add("কোরিয়া");
         listCountry.add("Mexico");
         listCountry.add("Netherlands");
         listCountry.add("Portugal");
